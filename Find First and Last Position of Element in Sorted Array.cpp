@@ -1,4 +1,5 @@
 class Solution {
+    // https://www.youtube.com/watch?v=zr_AoTxzn0Y&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2&index=5
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
     vector<int> ans;
