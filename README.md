@@ -6,8 +6,8 @@ Coding Questions on below topics
 [Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)</br>
 [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Search%20in%20Rotated%20Sorted%20Array.cpp)</br>
 [Question & answer](https://www.geeksforgeeks.org/search-almost-sorted-array/) - [ref](https://www.youtube.com/watch?v=W3-KgsCVH1U)</br>
-[Question](https://www.geeksforgeeks.org/floor-in-a-sorted-array/) - [Answer]()</br>
-[Question](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) - [Answer]()</br>
-[Question](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - [Answer]()</br>
+[Question](https://www.geeksforgeeks.org/floor-in-a-sorted-array/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Floor%20in%20a%20Sorted%20Array.cpp)</br>
+[Question](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Ceil%20in%20a%20sorted%20Array.cpp)</br>
+[Question](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)</br>
 [Question & answer](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/) - [ref](https://www.youtube.com/watch?v=FzvK5uuaki8&t=479s) </br>
 [Question & answer](https://www.geeksforgeeks.org/find-index-first-1-infinite-sorted-array-0s-1s/) - [ref](https://www.youtube.com/watch?v=8x6dmO6XW8k&t=8s) </br>
