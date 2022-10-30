@@ -11,3 +11,7 @@ Coding Questions on below topics
 [Question](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - [Answer](https://github.com/PSoni8/DSA/blob/main/Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)</br>
 [Question & answer](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/) - [ref](https://www.youtube.com/watch?v=FzvK5uuaki8&t=479s) </br>
 [Question & answer](https://www.geeksforgeeks.org/find-index-first-1-infinite-sorted-array-0s-1s/) - [ref](https://www.youtube.com/watch?v=8x6dmO6XW8k&t=8s) </br>
+[Question](https://leetcode.com/problems/find-peak-element/) - [Answer]()</br>
+[Question](https://leetcode.com/problems/find-target-indices-after-sorting-array/) - [Answer]()</br>
+[Question](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) - [Answer]()</br>
+[Question](https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) - [Answer]()</br>
